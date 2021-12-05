@@ -1,3 +1,5 @@
+Link to finished project: https://nft-drop-starter-project-1-jxf8aj0u3-athmx.vercel.app/
+
 # buildspace Solana NFT Drop Project
 ### Welcome 👋
 To get started with this course, clone this repo and follow these commands:
