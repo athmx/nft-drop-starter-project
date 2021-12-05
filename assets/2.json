@@ -1,0 +1,19 @@
+{
+    "name": "MORBUCKS GOT BUCKS",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "D1S2s9mnqu1vFcueevSvE5uu9xo79omcHYr8zTut6gNT",
+          "share": 100
+        }
+      ]
+    }
+  }

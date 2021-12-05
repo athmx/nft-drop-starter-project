@@ -1,6 +1,7 @@
 .App {
   height: 100vh;
-  background-color: rgb(20, 20, 20);
+  background: -webkit-linear-gradient(top, #edf0ec 30%, #76a2ca 70%);
+  /*background-color: rgb(200, 236, 212);*/
   overflow: scroll;
   text-align: center;
   overflow: hidden;
@@ -12,8 +13,9 @@
   flex-direction: column;
   justify-content: center;
   padding: 0 30px 0 30px;
-  color: white;
+  color: rgb(12, 11, 11);
   position: relative;
+  font-family: Century Gothic, sans-serif;
   /* background-color: #35aee2; */
 }
 
@@ -58,14 +60,14 @@
 }
 
 .connect-wallet-button {
-  color: white;
-  background: -webkit-linear-gradient(left, #ff8867, #ff52ff);
+  color: rgb(10, 9, 9);
+  background: -webkit-linear-gradient(left, #c668f1, #110e11);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
 }
 
 .mint-button {
-  background: -webkit-linear-gradient(left, #4e44ce, #35aee2);
+  background: -webkit-linear-gradient(left, #131314, #3541e2);
   background-size: 200% 200%;
   animation: gradient-animation 4s ease infinite;
   margin-left: 10px;
@@ -90,7 +92,7 @@
 .footer-text {
   font-size: 16px;
   font-weight: bold;
-  color: white;
+  color: rgb(8, 8, 8);
 }
 
 .connected-container input[type='text'] {

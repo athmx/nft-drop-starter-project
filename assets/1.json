@@ -1,0 +1,19 @@
+{
+    "name": "HOMER HARD CASH",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "D1S2s9mnqu1vFcueevSvE5uu9xo79omcHYr8zTut6gNT",
+          "share": 100
+        }
+      ]
+    }
+  }

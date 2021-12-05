@@ -1,0 +1,19 @@
+{
+    "name": "CRAB COINS",
+    "symbol": "",
+    "image": "0.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "0.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "D1S2s9mnqu1vFcueevSvE5uu9xo79omcHYr8zTut6gNT",
+          "share": 100
+        }
+      ]
+    }
+  }
